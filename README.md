@@ -9,4 +9,6 @@ Utilizando Python dentro de un Notebook de Google Colab, y con la ayuda de las l
 
 Se adjunta el archivo de Google Colab TP_HBAD_Amadeo_Alvarez.ipynb, la base de datos utilizada ig_df.csv y algunos gráficos relevantes.
 
+https://github.com/AmadeoAlvarez/tp-curso-herramientas-amadeo-alvarez
+
 Autor. Amadeo Álvarez.
