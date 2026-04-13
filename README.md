@@ -1,7 +1,7 @@
 # TP Curso de Herramientas Básicas de Análisis de Datos
 ## Trabajo final requerido para obtener la certificación de la cursada y aprobación delCurso Básico de Análisis de Datos de la UTN. Abrl de 2026.
 
-## El trabajo consiste en un breve análisis sobre algunos patrones de uso de la red social Instagram y la incidencia de estos en la vida de los usuarios.
+El trabajo consiste en un breve análisis sobre algunos patrones de uso de la red social Instagram y la incidencia de estos en la vida de los usuarios.
 
 Se utilizó un Data Set descargado desde Kaggle que muestra patrones de uso de la red social Instagram. 
 
