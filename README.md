@@ -7,4 +7,6 @@ Se utilizó un Data Set descargado desde Kaggle que muestra patrones de uso de l
 
 Utilizando Python dentro de un Notebook de Google Colab, y con la ayuda de las librerías de Panda, Numpy, Matplotlb y Seaborn, he podido realizar algunas métricas y obtener algunas conclusiones.
 
-Se adjunta el archivo de Google Colab TP_HBAD_Amadeo_Alvarez.ipynb y la base de datos utilizada ig_df.csv.
+Se adjunta el archivo de Google Colab TP_HBAD_Amadeo_Alvarez.ipynb, la base de datos utilizada ig_df.csv y algunos gráficos relevantes.
+
+Autor. Amadeo Álvarez.
