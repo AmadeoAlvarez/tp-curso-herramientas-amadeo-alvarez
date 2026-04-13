@@ -3,6 +3,18 @@
 
 El trabajo consiste en un breve análisis sobre algunos patrones de uso de la red social Instagram y la incidencia de estos en la vida de los usuarios.
 
+Al finalizar el análisis podríamos poder responder las siguientes preguntas.
+
+Existe en Instagram algún tipo de contenido que tenga una notoria prevalencia de consumo por sobre otros?
+
+Cuáles son los países que tienen más usuarios registrados en Instagram y cuáles menos?
+
+Como es la distribución de las edades de los usuarios de Instagram? Definir cuartiles.
+
+Existe manera de medir la incidencia del uso de Instagram en el nivel de stress de los usuarios?
+
+## Metododlogía
+
 Se utilizó un Data Set descargado desde Kaggle que muestra patrones de uso de la red social Instagram. 
 
 https://github.com/AmadeoAlvarez/tp-curso-herramientas-amadeo-alvarez/blob/main/data/ig_df.csv
